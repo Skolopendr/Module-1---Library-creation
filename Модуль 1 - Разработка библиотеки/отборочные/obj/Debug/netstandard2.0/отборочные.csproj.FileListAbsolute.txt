@@ -1,0 +1,9 @@
+C:\Users\LENOVO\source\repos\отборочные\отборочные\bin\Debug\netstandard2.0\отборочные.deps.json
+C:\Users\LENOVO\source\repos\отборочные\отборочные\bin\Debug\netstandard2.0\отборочные.dll
+C:\Users\LENOVO\source\repos\отборочные\отборочные\bin\Debug\netstandard2.0\отборочные.pdb
+C:\Users\LENOVO\source\repos\отборочные\отборочные\obj\Debug\netstandard2.0\отборочные.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\отборочные\отборочные\obj\Debug\netstandard2.0\отборочные.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\отборочные\отборочные\obj\Debug\netstandard2.0\отборочные.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\отборочные\отборочные\obj\Debug\netstandard2.0\отборочные.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\отборочные\отборочные\obj\Debug\netstandard2.0\отборочные.dll
+C:\Users\LENOVO\source\repos\отборочные\отборочные\obj\Debug\netstandard2.0\отборочные.pdb
